@@ -6,6 +6,7 @@ body {
 header h2 {
     font-size: 300%;
     text-shadow: 2px 2px 10px steelblue;
+    color:steelblue;
 }
 
 h3 {
